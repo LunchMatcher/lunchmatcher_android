@@ -1,0 +1,18 @@
+# view AndroidManifest.xml #generated:6
+-keep class com.newagesmb.lunchmatcher.CordovaApp { <init>(...); }
+
+# view AndroidManifest.xml #generated:13
+-keep class com.plugin.gcm.CordovaGCMBroadcastReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:20
+-keep class com.plugin.gcm.GCMIntentService { <init>(...); }
+
+# view AndroidManifest.xml #generated:12
+-keep class com.plugin.gcm.PushHandlerActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:22
+-keep class net.robotmedia.billing.BillingReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:21
+-keep class net.robotmedia.billing.BillingService { <init>(...); }
+

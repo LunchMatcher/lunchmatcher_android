@@ -1,0 +1,27 @@
+{
+    "cc.fovea.cordova.purchase": {
+        "source": {
+            "type": "registry",
+            "id": "cc.fovea.cordova.purchase"
+        }
+    },
+    "com.smartmobilesoftware.androidinappbilling": {
+        "source": {
+            "type": "local",
+            "path": "c:\\Users\\asker\\Desktop\\AndroidInAppBilling"
+        }
+    },
+    "nl.x-services.plugins.toast": {
+        "source": {
+            "type": "git",
+            "url": "https://github.com/EddyVerbruggen/Toast-PhoneGap-Plugin.git",
+            "subdir": "."
+        }
+    },
+    "nl.x-services.plugins.socialsharing": {
+        "source": {
+            "type": "registry",
+            "id": "nl.x-services.plugins.socialsharing"
+        }
+    }
+}
